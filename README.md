@@ -8,28 +8,24 @@ Waggle is a startup specializing in smart pet devices. After the success of thei
 
 This project delivers a boardroom-ready Power BI report to compare Lapcat data with Lapdog insights, helping executives determine whether Lapcat is a viable product or a costly risk.
 
-**🎯 Key Objectives**
+**🎯 Key Business Objectives**
 
-✔️ Analyze customer behavior, product usage, and performance metrics.
-✔️ Compare Lapcat and Lapdog data to identify trends and market potential.
-✔️ Build an interactive Power BI dashboard with key insights for decision-making.
-✔️ Present findings in a visually compelling, drill-through-enabled report.
+✔️ Analyze pet activity levels and compare daily step trends for Lapdog vs. Lapcat.
+✔️ Assess customer satisfaction for both devices.
+✔️ Understand pet demographics and identify patterns in breed, age, and engagement.
+✔️ Analyze family insights—household income, pet ownership trends, and spending behavior.
+✔️ Provide a boardroom-ready Power BI report with slicers, filters, and interactive elements.
 
 **🛠️ Data & Tools Used**
 
-Data Sources: Lapdog and Lapcat device activity logs
-Tools: Power BI, DAX, Power Query
-Techniques: Data modeling, KPI calculation, performance optimization
+**Data Sources:** Lapdog & Lapcat device activity logs, customer reviews, household data
+**Data Model:** Star schema with fact & dimension tables
+**Tools & Technologies:** Power BI, DAX, Power Query
+**Techniques:** Data modeling, KPI calculations, drill-throughs, performance optimization
 
 **Data Model includes :**
 ![image](https://github.com/user-attachments/assets/b221abc6-7755-4276-be7e-89bf374cd9a0)
 
-
-**📊 Key Insights & Impact**
-
-🔹 Identified differences in customer engagement & activity patterns between cats and dogs.
-🔹 Discovered key trends in usage frequency, walk timing, and health tracking.
-🔹 Provided data-backed recommendations to the leadership team on whether to launch Lapcat.
 
 **📷 Power BI Dashboard Sneak Peek**
 
@@ -77,13 +73,40 @@ Key Insights & Output:
 🔹 Most pet-owning families had 2-4 pets, with a mix of dogs and cats.
 🔹 Dog owners spent more annually on pet-related expenses compared to cat owners.
 
-Conclusion:
-➡️ The target audience for smart pet devices is high-income, multi-pet households. Lapcat should be marketed differently to attract potential buyers.
-
-![image](https://github.com/user-attachments/assets/8af7343f-3a22-4573-a6b3-ed21f527dc9d)
+![image](https://github.com/user-attachments/assets/06d867f7-9462-449f-8314-10a642f9bb8f)
 
 
-**🚀 Conclusion**
+**🎨 Report Features & Power BI Functionality**
 
-This Power BI report helped Waggle’s leadership make data-driven decisions on expanding their product line. The insights enabled them to understand customer needs, compare product performance, and assess Lapcat’s potential market success.
+_**✅ Interactive Slicers:**_
+Drop-down slicer (Breed selection)
+Slider slicer (Age range)
+Hierarchy slicer (Family details)
+Slicer with “Select All” enabled (Pet Gender)
+Slicer with search box enabled (Family Name)
+**_✅ Bookmarks & Navigation:_**
+Bookmark 1: Allows users to dynamically swap between different visuals.
+Bookmark 2: Provides a “Reset Filters” button for easy exploration.
+Interactive Buttons: Enable smooth report navigation with hover effects.
+_**✅ Report Structure:**_
+1️⃣ Page 1 (CEO Insights): Highlights key business questions, including average step count and customer satisfaction between Lapdog and Lapcat.
+2️⃣ Page 2 (Pet Insights): Provides detailed analysis of pet activity, breed distribution, and engagement levels.
+3️⃣ Page 3 (Family Insights): Examines household demographics, income distribution, and spending behavior.
+
+📄 Full PDF report available: https://github.com/amritachinnam/Customer-Data-Analytics/blob/main/Waggle%20PowerBI%20Report.pdf
+
+**🚀 Final Conclusion**
+The analysis clearly shows that **Lapcat has significantly lower adoption, engagement, and customer satisfaction** compared to Lapdog. While **Lapdog users exhibited increasing activity levels and high satisfaction (4.69 average rating), Lapcat users showed minimal activity change and low satisfaction (1.64 average rating).**  
+
+**Key Findings:**  
+✔️ **Cat owners engage less with wearable fitness devices**, suggesting **lower demand** for Lapcat.  
+✔️ **Higher-income, multi-pet households** remain the ideal target market for smart pet devices, but **dogs are the primary consumers.**  
+❌ **Lapcat, in its current form, does not justify mass production** due to **limited adoption and weak user satisfaction.**  
+
+**Strategic Recommendations:**  
+🔹 **Enhance Lapcat’s features** to offer more value to cat owners, focusing on health monitoring rather than fitness tracking.  
+🔹 **Reposition the product** to better align with cat owners' needs and expectations.  
+🔹 **Conduct further market research** to refine Lapcat’s value proposition before investing in full-scale production.  
+
+🚨 **Final Decision:** **Given the current data, investing heavily in Lapcat presents a high risk. Resources would be better allocated to further optimizing Lapdog’s success and refining Lapcat’s positioning before a wider launch.**
 
