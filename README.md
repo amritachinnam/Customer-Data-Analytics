@@ -1,6 +1,6 @@
 # Customer-Data-Analytics
 
-# ** 🐾 Building a Power BI Report for Waggle**
+## 🐾 Building a Power BI Report for Waggle
 
 **📌 Project Overview**
 
