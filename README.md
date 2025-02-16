@@ -1,25 +1,29 @@
 # Customer-Data-Analytics
 
-🐾 Building a Power BI Report for Waggle
+**🐾 Building a Power BI Report for Waggle**
 
-📌 Project Overview
+**📌 Project Overview**
 
 Waggle is a startup specializing in smart pet devices. After the success of their Lapdog fitness collar for dogs, they developed a Lapcat prototype for cats and conducted field testing with 1,000 units.
 
 This project delivers a boardroom-ready Power BI report to compare Lapcat data with Lapdog insights, helping executives determine whether Lapcat is a viable product or a costly risk.
 
-🎯 Key Objectives
+**🎯 Key Objectives**
 
 ✔️ Analyze customer behavior, product usage, and performance metrics.
 ✔️ Compare Lapcat and Lapdog data to identify trends and market potential.
 ✔️ Build an interactive Power BI dashboard with key insights for decision-making.
 ✔️ Present findings in a visually compelling, drill-through-enabled report.
 
-🛠️ Data & Tools Used
+**🛠️ Data & Tools Used**
 
 Data Sources: Lapdog and Lapcat device activity logs
 Tools: Power BI, DAX, Power Query
 Techniques: Data modeling, KPI calculation, performance optimization
+
+**Data Model includes :**
+![image](https://github.com/user-attachments/assets/b221abc6-7755-4276-be7e-89bf374cd9a0)
+
 
 📊 Key Insights & Impact
 
