@@ -2,13 +2,13 @@
 
 ## 🐾 Building a Power BI Report for Waggle
 
-**📌 Project Overview**
+### 📌 Project Overview
 
 Waggle is a startup specializing in smart pet devices. After the success of their **Lapdog** fitness collar for dogs, they developed a **Lapcat** prototype for cats and conducted field testing with 1,000 units.
 
 This project delivers a boardroom-ready Power BI report to compare Lapcat data with Lapdog insights, helping executives determine whether Lapcat is a viable product or a costly risk.
 
-**🎯 Key Business Objectives**
+### 🎯 Key Business Objectives
 
 ✔️ Analyze pet activity levels and compare daily step trends for Lapdog vs. Lapcat.
 ✔️ Assess customer satisfaction for both devices.
@@ -16,7 +16,7 @@ This project delivers a boardroom-ready Power BI report to compare Lapcat data w
 ✔️ Analyze family insights—household income, pet ownership trends, and spending behavior.
 ✔️ Provide a boardroom-ready Power BI report with slicers, filters, and interactive elements.
 
-**🛠️ Data & Tools Used**
+### 🛠️ Data & Tools Used
 
 **Data Sources:** Lapdog & Lapcat device activity logs, customer reviews, household data
 **Data Model:** Star schema with fact & dimension tables
@@ -27,7 +27,7 @@ This project delivers a boardroom-ready Power BI report to compare Lapcat data w
 ![image](https://github.com/user-attachments/assets/b221abc6-7755-4276-be7e-89bf374cd9a0)
 
 
-**📷 Power BI Dashboard Sneak Peek**
+### 📷 Power BI Dashboard Sneak Peek
 
 _**Report 1 - LapDog vs LapCat**_
 Dashboard Filters:
@@ -76,7 +76,7 @@ Key Insights & Output:
 ![image](https://github.com/user-attachments/assets/06d867f7-9462-449f-8314-10a642f9bb8f)
 
 
-**🎨 Report Features & Power BI Functionality**
+### 🎨 Report Features & Power BI Functionality
 
 _**✅ Interactive Slicers:**_
 Drop-down slicer (Breed selection)
@@ -95,7 +95,7 @@ _**✅ Report Structure:**_
 
 📄 Full PDF report available: https://github.com/amritachinnam/Customer-Data-Analytics/blob/main/Waggle%20PowerBI%20Report.pdf
 
-**🚀 Final Conclusion**
+### 🚀 Final Conclusion
 The analysis clearly shows that **Lapcat has significantly lower adoption, engagement, and customer satisfaction** compared to Lapdog. While **Lapdog users exhibited increasing activity levels and high satisfaction (4.69 average rating), Lapcat users showed minimal activity change and low satisfaction (1.64 average rating).**  
 
 **Key Findings:**  
