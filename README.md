@@ -11,16 +11,23 @@ This project delivers a boardroom-ready Power BI report to compare Lapcat data w
 ### 🎯 Key Business Objectives
 
 ✔️ Analyze pet activity levels and compare daily step trends for Lapdog vs. Lapcat.
+
 ✔️ Assess customer satisfaction for both devices.
+
 ✔️ Understand pet demographics and identify patterns in breed, age, and engagement.
+
 ✔️ Analyze family insights—household income, pet ownership trends, and spending behavior.
+
 ✔️ Provide a boardroom-ready Power BI report with slicers, filters, and interactive elements.
 
 ### 🛠️ Data & Tools Used
 
 **Data Sources:** Lapdog & Lapcat device activity logs, customer reviews, household data
+
 **Data Model:** Star schema with fact & dimension tables
+
 **Tools & Technologies:** Power BI, DAX, Power Query
+
 **Techniques:** Data modeling, KPI calculations, drill-throughs, performance optimization
 
 **Data Model includes :**
