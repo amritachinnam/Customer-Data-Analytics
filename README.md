@@ -2,6 +2,9 @@
 
 ## 🐾 Building a Power BI Report for Waggle
 
+![waggle_logo_white](https://github.com/user-attachments/assets/3967f1ea-b095-4a95-b17e-4ae740c5a6a5)
+
+
 ### 📌 Project Overview
 
 Waggle is a startup specializing in smart pet devices. After the success of their **Lapdog** fitness collar for dogs, they developed a **Lapcat** prototype for cats and conducted field testing with 1,000 units.
