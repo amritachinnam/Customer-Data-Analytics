@@ -30,7 +30,7 @@ This project delivers a boardroom-ready Power BI report to compare Lapcat data w
 
 **Techniques:** Data modeling, KPI calculations, drill-throughs, performance optimization
 
-**Data Model includes :**
+**Data Model includes (STAR SCHEMA) :**
 ![image](https://github.com/user-attachments/assets/b221abc6-7755-4276-be7e-89bf374cd9a0)
 
 
