@@ -39,6 +39,8 @@ This project delivers a boardroom-ready Power BI report to compare Lapcat data w
 
 ### 📷 Power BI Dashboard Sneak Peek
 
+Link - https://app.powerbi.com/groups/me/reports/c2b11ac5-b0a3-4f17-80d2-3a1f74d77a1f?experience=power-bi
+
 _**Report 1 - LapDog vs LapCat**_
 
 Dashboard Filters:
