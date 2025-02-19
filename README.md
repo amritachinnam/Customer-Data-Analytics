@@ -113,6 +113,8 @@ Key Insights & Output:
 
 ### 🎨 Report Features & Power BI Functionality
 
+Attached is a _**dashboardsetup file**_ to view the dashboard report on navigation and slicers.
+
 _**✅ Interactive Slicers:**_
 
 Drop-down slicer (Breed selection)
